@@ -6,7 +6,7 @@ Au minimum, remplissez cette description :
 
 TITRE DU PROJET :
 BUT POURSUIVI :
-VERSION ou DATE :
+VERSION ou DATE :23/5/2021
 COMMENT INVOQUER CE PROJET :
-AUTEURS :
+AUTEURS :mohamad hajjali
 INSTRUCTIONS Ŕ L'USAGER :
